@@ -84,11 +84,11 @@ export const VENUE_DATA = {
   ],
 
   heroImages: {
-    mainHall: "/src/assets/images/hero_organic_mandapam_1790126596614.jpg",
-    exterior: "/src/assets/images/intro_organic_courtyard_1790126610667.jpg",
-    weddingCeremony: "/src/assets/images/event_traditional_wedding_1790125155681.jpg",
-    receptionStage: "/src/assets/images/decor_botanical_mandapam_1790126636882.jpg",
-    banquetDining: "/src/assets/images/dining_banana_leaf_organic_1790126623242.jpg"
+    mainHall: "/images/hero_organic_mandapam_1790126596614.jpg",
+    exterior: "/images/intro_organic_courtyard_1790126610667.jpg",
+    weddingCeremony: "/images/event_traditional_wedding_1790125155681.jpg",
+    receptionStage: "/images/decor_botanical_mandapam_1790126636882.jpg",
+    banquetDining: "/images/dining_banana_leaf_organic_1790126623242.jpg"
   },
 
   events: [
@@ -100,7 +100,7 @@ export const VENUE_DATA = {
       longDesc: "Host your traditional Muhurtham and modern wedding with dignity. Our grand Mandapam stage is elevated for panoramic viewing, featuring dedicated havan fire ventilation, bridal procession aisles, and priest preparation quarters.",
       capacity: "500 - 1,500 Guests",
       typicalDuration: "1 to 2 Days",
-      image: "/src/assets/images/event_traditional_wedding_1790125155681.jpg",
+      image: "/images/event_traditional_wedding_1790125155681.jpg",
       highlights: ["Sacred Fire (Havan) ventilation system", "Grand bride & groom entry aisle", "Elevated 60-foot ceremonial stage", "Separate ritual preparation chambers"]
     },
     {
@@ -111,7 +111,7 @@ export const VENUE_DATA = {
       longDesc: "Designed for high-society evening celebrations. Features contemporary stage rigging, ambient golden dimming, seamless guest reception receiving line flow, and live musical orchestra zones.",
       capacity: "600 - 1,500 Guests",
       typicalDuration: "Evening (4-6 Hours)",
-      image: "/src/assets/images/event_reception_stage_1790125165549.jpg",
+      image: "/images/event_reception_stage_1790125165549.jpg",
       highlights: ["Programmable mood lighting", "Crystal chandelier installation", "Live acoustic audio console", "Photographer crane & drone clearances"]
     },
     {
@@ -122,7 +122,7 @@ export const VENUE_DATA = {
       longDesc: "An auspicious setting for rings, vows, and reciprocal family honors. Balanced acoustics allow elder blessings to be heard clearly across every corner.",
       capacity: "250 - 600 Guests",
       typicalDuration: "Half Day / Morning",
-      image: "/src/assets/images/hero_mandapam_hall_1790125130061.jpg",
+      image: "/images/hero_mandapam_hall_1790125130061.jpg",
       highlights: ["Auspicious backdrop styling", "Plate exchange podium area", "Traditional floral welcome arch", "Family photo lounges"]
     },
     {
@@ -133,7 +133,7 @@ export const VENUE_DATA = {
       longDesc: "Comfort-first facilities with private resting chambers for the mother-to-be, direct elevator access, and tailored seating arrangements.",
       capacity: "150 - 450 Guests",
       typicalDuration: "Morning / Afternoon",
-      image: "/src/assets/images/intro_architecture_1790125143212.jpg",
+      image: "/images/intro_architecture_1790125143212.jpg",
       highlights: ["Special mother rest suite", "Bangle ceremony seating arc", "Traditional sweet distribution kiosk", "Gentle climate control"]
     },
     {
@@ -144,7 +144,7 @@ export const VENUE_DATA = {
       longDesc: "Versatile modular staging adapts instantly from vibrant youth entertainment to serene Vedic homams and elder felicitation ceremonies.",
       capacity: "100 - 500 Guests",
       typicalDuration: "Half Day",
-      image: "/src/assets/images/dining_banquet_hall_1790125176665.jpg",
+      image: "/images/dining_banquet_hall_1790125176665.jpg",
       highlights: ["Flexible stage backdrop structures", "Audio/visual projection displays", "Dedicated buffet & live food stations", "Safe play zones for children"]
     },
     {
@@ -155,7 +155,7 @@ export const VENUE_DATA = {
       longDesc: "An intimate yet grand setting where family milestones are commemorated with multi-generational warmth and customized gourmet dining.",
       capacity: "100 - 400 Guests",
       typicalDuration: "Evening",
-      image: "/src/assets/images/event_reception_stage_1790125165549.jpg",
+      image: "/images/event_reception_stage_1790125165549.jpg",
       highlights: ["Intimate banquet seating layouts", "Memory montage projection screen", "Champagne/beverage toast service", "Personalized photo corners"]
     },
     {
@@ -166,7 +166,7 @@ export const VENUE_DATA = {
       longDesc: "High-speed Wi-Fi, motorized projection screens, executive dais seating, break-out green rooms, and seamless business-grade catering facilities.",
       capacity: "200 - 1,000 Delegates",
       typicalDuration: "Full Day / Half Day",
-      image: "/src/assets/images/intro_architecture_1790125143212.jpg",
+      image: "/images/intro_architecture_1790125143212.jpg",
       highlights: ["Dual 4K Laser Projectors", "Lapel & podium microphones", "High-speed optical fiber connectivity", "VIP executive green room"]
     },
     {
@@ -177,7 +177,7 @@ export const VENUE_DATA = {
       longDesc: "Acoustically treated interior surfaces designed specifically for classical Carnatic vocalists, mridangam percussion, and classical dance performances.",
       capacity: "250 - 900 Guests",
       typicalDuration: "Morning or Evening",
-      image: "/src/assets/images/hero_mandapam_hall_1790125130061.jpg",
+      image: "/images/hero_mandapam_hall_1790125130061.jpg",
       highlights: ["Tuned wooden acoustic flooring", "Instrumentalist sound monitors", "Performer dressing green rooms", "Grand auditorium seating sightlines"]
     }
   ],
@@ -331,42 +331,42 @@ export const VENUE_DATA = {
       id: "g1",
       title: "Eco-Luxury Wedding Mandapam Pavilion",
       category: "Mandapam & Stage",
-      image: "/src/assets/images/hero_organic_mandapam_1790126596614.jpg",
+      image: "/images/hero_organic_mandapam_1790126596614.jpg",
       span: "md:col-span-2 md:row-span-2"
     },
     {
       id: "g2",
       title: "Natural Courtyard with Heritage Urli",
       category: "Architecture",
-      image: "/src/assets/images/intro_organic_courtyard_1790126610667.jpg",
+      image: "/images/intro_organic_courtyard_1790126610667.jpg",
       span: "md:col-span-1 md:row-span-1"
     },
     {
       id: "g3",
       title: "Authentic Banana Leaf Wedding Feast",
       category: "Dining & Banquet",
-      image: "/src/assets/images/dining_banana_leaf_organic_1790126623242.jpg",
+      image: "/images/dining_banana_leaf_organic_1790126623242.jpg",
       span: "md:col-span-1 md:row-span-1"
     },
     {
       id: "g4",
       title: "Sustainable Botanical Floral Styling",
       category: "Mandapam & Stage",
-      image: "/src/assets/images/decor_botanical_mandapam_1790126636882.jpg",
+      image: "/images/decor_botanical_mandapam_1790126636882.jpg",
       span: "md:col-span-1 md:row-span-1"
     },
     {
       id: "g5",
       title: "Traditional Sacred Vivaham Ceremony",
       category: "Celebrations",
-      image: "/src/assets/images/event_traditional_wedding_1790125155681.jpg",
+      image: "/images/event_traditional_wedding_1790125155681.jpg",
       span: "md:col-span-1 md:row-span-1"
     },
     {
       id: "g6",
       title: "Twilight Architectural Heritage Facade",
       category: "Architecture",
-      image: "/src/assets/images/intro_architecture_1790125143212.jpg",
+      image: "/images/intro_architecture_1790125143212.jpg",
       span: "md:col-span-1 md:row-span-1"
     }
   ] as GalleryItem[],
